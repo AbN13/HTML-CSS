@@ -1,0 +1,19 @@
+p {
+    margin-top: 70px;
+    color: red;
+    margin-left: 100px;
+}
+
+#imagem {
+    position: absolute; left: 30px;
+    top:60px;
+}
+
+.imagem {
+    position:relative;
+    left:30px;
+    top:60px;
+    width: 500px;
+    height: 650px;
+}
+
