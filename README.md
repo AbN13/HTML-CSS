@@ -1,1 +1,1 @@
-Primeiro site utilizante HTML e CSS
+Primeiro site utilizando HTML e CSS
